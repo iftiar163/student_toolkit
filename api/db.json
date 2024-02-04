@@ -1,0 +1,18 @@
+{
+  "student": [
+    {
+      "id": "a875",
+      "name": "Iftiar Hossain",
+      "roll": "174955",
+      "phone": "01940090163",
+      "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team1.jpg"
+    },
+    {
+      "id": "53a9",
+      "name": "Ishrat Hossain",
+      "roll": "01002",
+      "phone": "01824566445",
+      "photo": "https://billey-4437.kxcdn.com/wp-content/uploads/2019/08/team-member-01.jpg"
+    }
+  ]
+}
